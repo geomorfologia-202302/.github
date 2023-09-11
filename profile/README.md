@@ -4,4 +4,4 @@
 
 - [Programa](programa-geomorfologia.pdf)
 
-- [Prácticas](practicas)
+- [Prácticas](https://github.com/geomorfologia-202302/practicas)
