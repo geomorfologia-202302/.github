@@ -2,4 +2,4 @@
 
 - [Programa](programa-geomorfologia.pdf)
 
-- [Práctica 1](practicas/práctica-1.md)
+- [Prácticas](practicas)
